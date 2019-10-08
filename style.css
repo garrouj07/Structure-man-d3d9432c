@@ -1,0 +1,19 @@
+td {
+    border: 1px solid rgb(190, 190, 190);
+    padding: 5px;
+    text-align: center;
+    width: 50px
+}
+th {
+    text-align: center;
+    border: 1px solid rgb(190, 190, 190);
+    padding: 5px;
+    background-color: #eee;
+    width: 30px
+    height: 5px;
+}
+td
+{
+    background-color: #696969;
+    color: #fff;
+}
